@@ -1,3 +1,1 @@
-Menu primeiro sistema no GIT
-
-Alteração do readme para descrever meu sistema
+Menu primeiro sistema no GIT (ALTERADO E ATUALIZADO)
